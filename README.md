@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rehan Nagoor Mohideen</h1>
+<h1 align="center">Hi!, I'm Rehan Nagoor Mohideen</h1>
 <h3 align="center">A passionate Software Engineering student at the University of Guelph.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-code&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-code" /> </p>
