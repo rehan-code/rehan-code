@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Discord-Bot](https://github.com/rehan-code/Discord-Bot)
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, React, Discord.js**
 
 - 📫 How to reach me **rehannags@yahoo.com**
 
