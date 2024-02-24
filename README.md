@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-code&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-code" /> </p>
 
-- 🔭 I’m currently working on [Rentr]([https://github.com/rehan-code/Discord-Bot](https://devpost.com/software/lendr-j4guw0?ref_content=my-projects-tab&ref_feature=my_projects))
+- 🔭 I’m currently working on [Rentr](https://devpost.com/software/lendr-j4guw0?ref_content=my-projects-tab&ref_feature=my_projects)
 
 - 🌱 I’m currently learning **Startup Stuff**
 
