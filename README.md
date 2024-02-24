@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-code&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-code" /> </p>
 
-- 🔭 I’m currently working on [Discord-Bot](https://github.com/rehan-code/Discord-Bot)
+- 🔭 I’m currently working on [Rentr]([https://github.com/rehan-code/Discord-Bot](https://devpost.com/software/lendr-j4guw0?ref_content=my-projects-tab&ref_feature=my_projects))
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, React, Discord.js**
+- 🌱 I’m currently learning **Startup Stuff**
 
-- 📫 How to reach me **rehannags@yahoo.com**
+- 📫 How to reach me **rehannags@yahoo.com** or use my linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
